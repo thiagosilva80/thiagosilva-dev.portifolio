@@ -5,11 +5,13 @@ Este projeto é uma página web de portfólio desenvolvida para apresentar habil
 🚀 Tecnologias
 HTML5
 CSS3
+
 📂 Seções
 Sobre – Descrição geral
 Habilidades – Tecnologias e conhecimentos
 Projetos – Trabalhos desenvolvidos
 Contato – Informações para contato
+
 🛠️ Projetos
 Exercícios em Python
 Práticas de lógica de programação com foco em estruturas condicionais e resolução de problemas.
