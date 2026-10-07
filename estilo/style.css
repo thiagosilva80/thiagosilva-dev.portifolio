@@ -285,3 +285,7 @@ button, a { -webkit-tap-highlight-color: transparent; }
 .stockmaster-preview:hover .stockmaster-image {
     transform: scale(1.03);
 }
+
+html{
+    scroll-behavior: smooth;
+}
